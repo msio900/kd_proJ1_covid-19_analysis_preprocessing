@@ -1,4 +1,4 @@
 # covid-19_dataset_preprocessing
 
-dataset preprocessed byAhn yujin, Nam seungju, Kim minsung
+dataset preprocessed by Ahn yujin, Nam seungju, Kim minsung
 
